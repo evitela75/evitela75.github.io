@@ -1,0 +1,10 @@
+website:
+  title: "inqs909.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - NEWFILE.qmd
+      
+      Test

@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About myself, My TV recently died but luckily it died on Black Friday. Make sure to get a two year warranty."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "evitela75.github.io",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello, welcome to my website. I am a computer science major and I would say Python is my favorite programming language. Assembly language sucks but here is a picture of me when I was in the Army."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Currently working at BDS Marketing but looking for a internship in my intended career field."
   }
 ]

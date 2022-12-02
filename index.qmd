@@ -5,4 +5,4 @@ title: "evitela75.github.io"
 Hello, welcome to my website.
 I am a computer science major and I would say Python is my favorite programming language.
 Assembly language sucks but here is a picture of me when I was in the Army.
-![heya](evitela75.github.io/IMG_8670.jpg)
+![heya](IMG_8670.jpg)
